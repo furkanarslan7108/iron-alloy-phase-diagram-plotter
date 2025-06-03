@@ -1,0 +1,17 @@
+HR Lab C (%)	0,1463
+HR Lab Si (%)	0,2034
+HR Lab S (%)	0,0018
+HR Lab P (%)	0,0138
+HR Lab Mn (%)	1,9280
+HR Lab Al (%)	0,0381
+HR Lab Ti (%)	0,0016
+HR Lab Nb (%)	0,0006
+HR Lab B (%)	0,0004
+HR Lab Cr (%)	0,2393
+HR Lab Ni (%)	0,0174
+HR Lab Cu (%)	0,0209
+HR Lab Mo (%)	0,0043
+HR Lab V (%)	0,0017
+HR Lab Ca (%)	(empty)
+HR Lab N (%)	0,0054
+Karbon Eşdeğeri	0,5530
